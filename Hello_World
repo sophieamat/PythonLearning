@@ -1,0 +1,7 @@
+print "Hello, World!"
+Last login: Fri Aug 25 11:52:01 on ttys000
+sophie@192-168-1-109 ~ % cd /Users/sophie/Documents/VSC_Python
+sophie@192-168-1-109 VSC_Python % python hello_world.py
+
+Hello, World!
+sophie@192-168-1-109 VSC_Python % 
